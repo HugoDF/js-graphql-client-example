@@ -1,0 +1,19 @@
+{
+  "name": "js-graphql-client-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetch.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "graphql.js": "^0.4.20"
+  },
+  "devDependencies": {
+    "parcel": "^1.9.7"
+  }
+}
