@@ -1,7 +1,7 @@
 {
   "name": "js-graphql-client-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "Example consuming a GraphQL API from JavaScript using `graphql.js`.",
   "main": "fetch.js",
   "scripts": {
     "start": "parcel index.html",
@@ -10,7 +10,7 @@
     "deploy": "gh-pages -d dist"
   },
   "keywords": [],
-  "author": "",
+  "author": "Hugo Di Francesco",
   "license": "MIT",
   "dependencies": {
     "graphql.js": "^0.4.20"
@@ -18,5 +18,13 @@
   "devDependencies": {
     "gh-pages": "^1.2.0",
     "parcel": "^1.9.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoDF/js-graphql-client-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HugoDF/js-graphql-client-example/issues"
+  },
+  "homepage": "https://github.com/HugoDF/js-graphql-client-example#readme"
 }
