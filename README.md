@@ -2,6 +2,10 @@
 
 Example consuming a GraphQL API from JavaScript using `graphql.js`. 
 
+## See it live
+
+[https://codewithhugo.com/js-graphql-client-example/](https://codewithhugo.com/js-graphql-client-example/)
+
 ## Run Node script
 
 ```sh
