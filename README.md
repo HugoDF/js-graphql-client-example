@@ -31,13 +31,18 @@ $ node fetch.js
 
 ## Run client-side app
 
-```sh
-$ npm install
-```
+### Locally
 
-Run using parcel:
-```sh
-$ npm start # or npx parcel index.html
-```
+- Clone the repo
 
-Open [http://localhost:1234](http://localhost:1234)
+- Install dependencies
+  ```sh
+  $ npm install
+  ```
+
+- Run using parcel:
+  ```sh
+  $ npm start # or npx parcel index.html
+  ```
+
+- Open [http://localhost:1234](http://localhost:1234)
