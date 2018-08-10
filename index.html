@@ -17,6 +17,20 @@
 </head>
 
 <body>
+    <p>For full documentation see: <a href="https://graphql-pokemon.now.sh/">https://graphql-pokemon.now.sh/</a></p>
+    <h2>Input: </h2>
+    <textarea class="query" style="min-width: 285px; min-height: 150px">
+    {
+        pokemon(name: "Pikachu") {
+            attacks {
+                special {
+                    name
+                }
+            }
+        }
+    }
+    </textarea>
+    <button>Try it</button>
     <h2>Output: </h2>
     <div class="output"></div>
     <script src="./client.js"></script>

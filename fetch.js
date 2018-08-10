@@ -20,5 +20,6 @@ if (require.main === module) {
 }
 
 module.exports = {
-  query
+  query,
+  graph
 };
